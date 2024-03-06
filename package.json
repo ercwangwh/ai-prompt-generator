@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.11.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ercwangwh/ai-prompt-generator"
   }
 }
